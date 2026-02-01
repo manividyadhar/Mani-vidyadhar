@@ -1,67 +1,80 @@
-# 👋 Hi, I’m Manividyadhar
+<h1 align="center">Hi 👋, I'm Manividyadhar</h1>
+<h3 align="center">Cybersecurity Enthusiast | MCA Graduate</h3>
 
-🎓 Master of Computer Applications (MCA) Graduate  
-🔐 Cybersecurity Enthusiast | Network Security & Penetration Testing  
-💻 Interested in Entry-Level Cybersecurity / SOC Analyst Roles  
+<p align="center">
+🔐 Network Security & Penetration Testing <br>
+💻 Python | Linux | Security Tools <br>
+📍 Vijayawada, India
+</p>
 
 ---
 
-## 🧠 Skills & Technologies
+## 👨‍💻 About Me
 
-- **Cybersecurity:** Network Scanning, Vulnerability Assessment, Port Scanning  
-- **Tools:** Nmap, Wireshark, Burp Suite, Nessus (Basics)  
-- **Programming:** Python, Bash  
-- **Databases:** MySQL  
-- **Operating Systems:** Linux, Kali Linux  
-- **Other:** Git, GitHub, Basic Machine Learning
+- 🎓 Master of Computer Applications (MCA)
+- 🔍 Interested in **Cybersecurity, SOC, VAPT**
+- 🛡️ Hands-on experience with security tools and scanning
+- 🚀 Actively learning and building security-focused projects
+- 📌 Looking for **entry-level cybersecurity roles**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mani-vidyadhar-949b63233" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:manividyadhar143@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### 🛡️ Cybersecurity
+![Nmap](https://img.shields.io/badge/Nmap-004C99?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+
+### 🧰 Tools & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔎 Malicious URL Detection  
-Machine learning–based system to identify malicious URLs for enhanced web security.
+- 🔎 **Malicious URL Detection** – ML-based detection of malicious links  
+- 🛠️ **FASTSCAN – Advanced Two Tier Port Scanner**  
+- 📊 **Automated ECG Classification using Deep Learning**  
+- 🌐 **Personal Portfolio Website**
 
-**Tech Stack:** Python, Machine Learning  
-
----
-
-### 🛠️ FASTSCAN – Advanced Two Tier Port Scanner  
-A Python-based port scanning tool implementing a two-layer scanning approach.
-
-**Tech Stack:** Python, Networking  
+👉 Check my pinned repositories below ⬇️
 
 ---
 
-### 📊 Automated ECG Classification Using Deep Learning  
-Deep learning project for automated ECG signal classification.
+## 📊 GitHub Stats
 
-**Tech Stack:** Python, Deep Learning  
-
----
-
-### 🌐 Portfolio Website  
-Personal portfolio website showcasing projects and technical skills.
-
-**Tech Stack:** HTML, CSS  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manividyadhar&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manividyadhar&theme=radical" width="48%"/>
+</p>
 
 ---
 
-## 🎓 Internship Experience
+## 🏆 GitHub Trophies
 
-**Cybersecurity Intern – Craw Security, Hyderabad**  
-- Performed network scanning and vulnerability assessment  
-- Worked with industry-standard security tools  
-- Gained hands-on exposure to real-world security scenarios  
-
----
-
-## 📫 Connect With Me
-
-- 🔗 GitHub: https://github.com/manividyadhar  
-- 🔗 LinkedIn: www.linkedin.com/in/manividyadhar  
-- 📧 Email: manividyadhar143@gmail.com
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manividyadhar&theme=darkhub&no-frame=true&row=1"/>
+</p>
 
 ---
 
-⭐ I am continuously learning and improving my skills in cybersecurity and actively looking for opportunities to grow as a security professional.
+⭐ *I believe in continuous learning and building real-world cybersecurity solutions.*
